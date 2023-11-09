@@ -1,0 +1,11 @@
+#image1, #image2
+{
+    height: 100px;
+    width: 80px;
+    margin-left: 25px;
+}
+
+#mouse
+{
+    cursor: pointer;
+}
